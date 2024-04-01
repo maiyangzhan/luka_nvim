@@ -6,4 +6,4 @@ This is a nvim config from Luka, most in which is from lazyvim.
 
 Something Change from lazyvim:
 * Ctrl+h/j/k/l move the cursor in "insert mode".
-* The Ctrl+k in LSP keybinding has been delete to support the above operation.
+* The Ctrl+k in LSP keybinding has been deleted to support the above operation.
